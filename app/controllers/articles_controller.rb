@@ -14,6 +14,7 @@ def create
   #render plain: params[:article].inspect  -- to show the parameters passed to create action from new.html.erb file 
   
   @article = Article.new(article_params)
+  @article.user = User.first     #here user is virtual parameter, ruby is intelligent enough to copy user_id to this Article.
   if @article.save
     flash[:notice] = "Article was successfully created"
     redirect_to article_path(@article) 

@@ -1,0 +1,77 @@
+[33mcommit 33ec34a6179f4ca5abde514607dc6a9f3e06625b[m[33m ([m[1;36mHEAD -> [m[1;32mcreate-users[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Tue Jan 9 22:59:49 2018 +0000
+
+    trying to run bootstap but failed
+
+[33mcommit a2d46d5fb5a82c1103c2bedb86ff801df7ae79c1[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Tue Jan 9 00:58:24 2018 +0000
+
+    Install bootstrap
+
+[33mcommit 0c15ac707fd536c6ad2cec13591db8e08f71d5e9[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Mon Jan 8 23:08:41 2018 +0000
+
+    removed redundency and prepare for production
+
+[33mcommit c11b277c10f792287d5099538623c3cfa1d9b0b4[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Mon Jan 8 22:54:01 2018 +0000
+
+    Added partials and delete action
+
+[33mcommit e3a234016f7077268c2e1fd990ca641550b5f960[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Mon Jan 8 21:50:18 2018 +0000
+
+    Add edit,show and index listing
+
+[33mcommit 8159562a78be10e5b464e72a126f88d03031fd46[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Mon Jan 8 19:40:08 2018 +0000
+
+    create show, add error messages and flash
+
+[33mcommit a49dbf8246ebe6fc57090409361912cb390b1ba4[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Mon Jan 8 17:34:57 2018 +0000
+
+    created new action for articles
+
+[33mcommit a1b9fa4b4111fb6049f8b328962d2595d9996ce1[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Mon Jan 8 16:22:00 2018 +0000
+
+    created article model, migrations
+
+[33mcommit f53501d089bf11ef59d5a4679af6fa5a2dfe8dd4[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Sun Jan 7 12:28:05 2018 +0000
+
+    sqlite3 error in heroku solution
+
+[33mcommit ce6c8fa12e9d8e5ec0899cca278ee15950b97811[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Sun Jan 7 03:28:56 2018 +0000
+
+    commiting again becoz production issues in Heroku
+
+[33mcommit 7e476128b12190c86209ce416db08486cbc0adf6[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Sun Jan 7 02:53:50 2018 +0000
+
+    make app production ready
+
+[33mcommit ae2a801d54b6eea03370d7f597734c388f80d8d4[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Sun Jan 7 02:23:09 2018 +0000
+
+    modified Readme file
+
+[33mcommit d83f40d500fcbd08b0dabf2cd29c692e9f1e9f9c[m
+Author: Shubham <syadav.yadav32@gmail.com>
+Date:   Sat Jan 6 13:32:30 2018 +0000
+
+    home and about page
